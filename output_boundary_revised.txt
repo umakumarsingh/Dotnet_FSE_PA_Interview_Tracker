@@ -1,0 +1,4 @@
+Testfor_ValidateMobileNumber=True
+Testfor_ValidEmail=True
+Testfor_ValidateUserId=True
+Testfor_ValidateInterviewId=True
