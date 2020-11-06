@@ -1,3 +1,1 @@
-Get_UserEndpointsReturnSuccessAndCorrectContentType=True
-Get_InterviewEndpointsReturnSuccessAndCorrectContentType=True
-Get_DashboardEndpointsReturnSuccessAndCorrectContentType=True
+
