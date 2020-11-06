@@ -1,4 +1,1 @@
-Testfor_Validate_InValid_AddInterview=True
-Testfor_Validate_InvlidUserRegister=True
-Testfor_Validate_InValid_DeleteInterview=True
-Testfor_Validate_InValid_DeleteUser=True
+
