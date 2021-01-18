@@ -2,7 +2,6 @@
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Text;
 
 namespace InterviewTracker.BusinessLayer.ViewModels
 {
@@ -40,7 +39,6 @@ namespace InterviewTracker.BusinessLayer.ViewModels
         public string Remark { get; set; }
 
         public int UserId { get; set; }
-        //public virtual ApplicationUser ApplicationUsers { get; set; }
         public IEnumerable<ApplicationUser> ApplicationUsers { get; set; }
     }
 }
