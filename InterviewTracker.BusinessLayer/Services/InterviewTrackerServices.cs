@@ -1,9 +1,7 @@
 ﻿using InterviewTracker.BusinessLayer.Interfaces;
 using InterviewTracker.BusinessLayer.Services.Repository;
 using InterviewTracker.Entities;
-using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace InterviewTracker.BusinessLayer.Services
